@@ -36,11 +36,11 @@
 ###  Mis Estadísticas en GitHub
 
 <p align="center">
-  <a href="https://github.com/Josssszzzz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Josssszzzz&show_icons=true&locale=es&theme=dracula" alt="Estadísticas de GitHub" />
+  <a href="https://github.com/bobopomo23">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bobopomo23&show_icons=true&locale=es&theme=dracula" alt="Estadísticas de GitHub" />
   </a>
-  <a href="https://github.com/Josssszzzz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Josssszzzz&layout=compact&locale=es&theme=dracula" alt="Lenguajes más usados" />
+  <a href="https://github.com/bobopomo23">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bobopomo23&layout=compact&locale=es&theme=dracula" alt="Lenguajes más usados" />
   </a>
 </p>
 ---
