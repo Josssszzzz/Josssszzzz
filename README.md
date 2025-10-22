@@ -3,7 +3,7 @@
 <h3 align="center">Un desarrollador apasionado por crear soluciones web robustas y escalables.</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJlZ3BrcmI2dTdpc3N1dWg0YzdpdWp5MXg4Z3R5ZWNnYzVvZGRsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkASztds2/giphy.gif" alt="Coding" width="400"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmV4NnJ4aGJ4ZmFqcXgwOHowcnhpNXB5ZmZ6bjdxNW4xZWxlc3p2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q8Oj0y8taFeXublkqC/giphy.gif" alt="Coding" width="400"/>
 </p>
 
 ---
