@@ -57,13 +57,12 @@
 
 <p align="center">
   <a href="https://github.com/Josssszzzz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&locale=es&theme=dracula" alt="Estadísticas de GitHub" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Josssszzzz&show_icons=true&locale=es&theme=dracula" alt="Estadísticas de GitHub" />
   </a>
   <a href="https://github.com/Josssszzzz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tu-usuario&layout=compact&locale=es&theme=dracula" alt="Lenguajes más usados" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Josssszzzz&layout=compact&locale=es&theme=dracula" alt="Lenguajes más usados" />
   </a>
 </p>
-
 ---
 
 ###  Contáctame
