@@ -1,4 +1,4 @@
-## Hi there 
+## 👋 Hi there 
 <h1 align="center">¡Hola!  Soy José Eduardo Cruz López</h1>
 <h3 align="center">Un desarrollador apasionado por crear soluciones web robustas y escalables.</h3>
 
@@ -8,7 +8,7 @@
 
 ---
 
-###  Sobre Mí
+### 😼 Sobre Mí
 
 <p>
   Soy un desarrollador con experiencia en el stack MERN y tecnologías del lado del servidor. Me encanta transformar ideas en código funcional y me apasiona aprender constantemente sobre nuevas tecnologías. Mi objetivo es construir aplicaciones eficientes, limpias y que ofrezcan una gran experiencia de usuario.
@@ -16,7 +16,13 @@
 
 ---
 
-###  Mi Stack Tecnológico
+### 🌱 Actualmente estoy aprendiendo
+-  CWES 🕷️ para tener un mayor conocimiento de ciberseguridad.
+- 🛜 Pruebas en webs.
+
+---
+
+### 😸 Mi Stack Tecnológico
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -33,7 +39,7 @@
 
 ---
 
-###  Mis Estadísticas en GitHub
+### 📊 Mis Estadísticas en GitHub
 
 <p align="center">
   <a href="https://github.com/bobopomo23">
@@ -46,16 +52,16 @@
 
 ---
 
-###  Contáctame
+### 📫Contáctame
 
 <p align="center">
-  <a href="https://linkedin.com/in/josé-eduardo-cruz-lópez-1b1403352" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tu-usuario" height="30" width="45" />
-  </a>
-  <a href="https://x.com/Joseeduardocrz" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tu-usuario" height="30" width="45" />
-  </a>
-   <a href="mailto:joselupo329@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="joselupo329@gmail.com" />
-  </a>
+<a href="https://linkedin.com/in/josé-eduardo-cruz-lópez-1b1403352" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://x.com/Joseeduardocrz" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="mailto:joselupo329@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 </p>
