@@ -12,12 +12,12 @@
 
 <p>
   Soy un desarrollador con experiencia en el stack MERN y tecnologías del lado del servidor. Me encanta transformar ideas en código funcional y me apasiona aprender constantemente sobre nuevas tecnologías. Mi objetivo es construir aplicaciones eficientes, limpias y que ofrezcan una gran experiencia de usuario.
+  Tengo todo el Path completado de CWES 🕷️.
 </p>
 
 ---
 
 ### 🌱 Actualmente estoy aprendiendo
--  CWES 🕷️ para tener un mayor conocimiento de ciberseguridad.
 - 🛜 Pruebas en webs.
 
 ---
