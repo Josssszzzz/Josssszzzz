@@ -37,7 +37,7 @@
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/373280/linux-opened.svg" alt="linuxajshdjas" width="40" height="40"/>
-  <img src="https://cdn.brandfetch.io/id-M19oKfL/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="hack the bos" width="50" height="40"/>
+  <img src="https://cdn.brandfetch.io/id-M19oKfL/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="hack the bos" width="70" height="40"/>
 </p>
 
 ---
