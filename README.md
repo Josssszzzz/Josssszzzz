@@ -34,7 +34,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" alt="bash" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/373280/linux-opened.svg" alt="linuxajshdjas" width="40" height="40"/>
   <img src="https://cdn.brandfetch.io/id-M19oKfL/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="hack the bos" width="90" height="40"/>
