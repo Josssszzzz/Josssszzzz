@@ -35,7 +35,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="python" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/452054/linux.svg" alt="linuxajshdjas" width="40" height="40"/>
 </p>
 
 ---
