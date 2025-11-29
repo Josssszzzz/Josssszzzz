@@ -22,8 +22,10 @@
 </div>
 
 <br>
+
 ---
-### <samp>🛑 ./User_Profile</samp>
+
+<samp>🛑 ./User_Profile</samp>
 
 ```bash
 root@127.0.0.1:~$ cat /var/log/about_me.txt
@@ -45,7 +47,7 @@ root@127.0.0.1:~$ cat /var/log/about_me.txt
   * Philosophy: "Para romper la lógica, primero tienes que entenderla."
 ```
 ---
-### <samp>🛠️ ./Arsenal_&_Exploits</samp>
+<samp>🛠️ ./Arsenal_&_Exploits</samp>
 
 <table align="center">
   <tr>
@@ -103,7 +105,7 @@ root@127.0.0.1:~$ cat /var/log/about_me.txt
 </table>
 
 ---
-### <samp>📡 ./Active_Missions</samp>
+<samp>📡 ./Active_Missions</samp>
 
 ```yaml
 Current_Focus:
@@ -120,7 +122,7 @@ Current_Focus:
 <a href="https://github.com/Josssszzzz"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3DJosssszzzz%26layout%3Dcompact%26locale%3Des%26theme%3Dradical%26bg_color%3D0d1117%26title_color%3D00FF00%26text_color%3Dc9d1d9%26border_color%3D00FF00%26hide_border%3Dfalse" alt="Top Langs" /> </a> </div>
 
 ---
-### <samp>📟 ./Encrypted_Channels</samp>
+<samp>📟 ./Encrypted_Channels</samp>
 
 <p align="center">
   <a href="https://linkedin.com/in/josé-eduardo-cruz-lópez-1b1403352" target="_blank">
