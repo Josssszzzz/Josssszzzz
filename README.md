@@ -137,7 +137,7 @@ Current_Focus:
 <br><br>
   <p align="center">
   <a href="https://app.hackthebox.com/users/2641670">
-    <img src="https://www.hackthebox.eu/badge/image/2641670" alt="Hack The Box Badge" width="400" />
+    <img src="https://www.hackthebox.eu/badge/image/2641670" alt="Hack The Box Badge" width="300" />
   </a>
 </p>
 
