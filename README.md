@@ -101,7 +101,6 @@ root@127.0.0.1:~$ cat /var/log/about_me.txt
     </td>
   </tr>
 </table>
----
 
 <samp>📡 ./Active_Missions</samp>
 
@@ -113,12 +112,14 @@ Current_Focus:
 ```
 ---
 <samp>📊 ./Network_Stats</samp>
-<div align="center"> <a href="https://github.com/Josssszzzz"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DJosssszzzz%26show_icons%3Dtrue%26locale%3Des%26theme%3Dradical%26bg_color%3D0d1117%26title_color%3D00FF00%26text_color%3Dc9d1d9%26icon_color%3D00FF00%26border_color%3D00FF00%26hide_border%3Dfalse" alt="GitHub Stats" /> </a>
-
-
-
-<a href="https://github.com/Josssszzzz"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3DJosssszzzz%26layout%3Dcompact%26locale%3Des%26theme%3Dradical%26bg_color%3D0d1117%26title_color%3D00FF00%26text_color%3Dc9d1d9%26border_color%3D00FF00%26hide_border%3Dfalse" alt="Top Langs" /> </a> </div>
-
+<a href="https://github.com/Josssszzzz">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Josssszzzz&show_icons=true&locale=es&theme=midnight-purple&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=79c0ff&border_color=30363d" alt="Estadísticas de GitHub" />
+  </a>
+  
+  <a href="https://github.com/Josssszzzz">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Josssszzzz&layout=compact&locale=es&theme=midnight-purple&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&border_color=30363d" alt="Lenguajes más usados" />
+  </a>
+  
 <p align="center">
   <a href="https://app.hackthebox.com/users/2641670">
     <img src="https://www.hackthebox.eu/badge/image/2641670" alt="Hack The Box Badge" />
