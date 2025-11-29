@@ -45,63 +45,62 @@ root@127.0.0.1:~$ cat /var/log/about_me.txt
   * Philosophy: "Para romper la lógica, primero tienes que entenderla."
 ```
 ---
-<samp>🛠️ ./Arsenal_&_Exploits</samp>
+### <samp>🛠️ ./Arsenal_&_Exploits</samp>
 
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-      <br>PyScript
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45" />
+      <br>Python
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
       <br>JS
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" />
       <br>TS
     </td>
     <td align="center" width="90">
-      <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" alt="icon" width="50" height="50" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="45" height="45" />
       <br>Bash
     </td>
     <td align="center" width="90">
-      <img src="https://www.svgrepo.com/show/373280/linux-opened.svg" alt="icon" width="50" height="50" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45" />
       <br>Linux
     </td>
     <td align="center" width="90">
-      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-hack-the-box-a-massive-hacking-playground-and-infosec-community-logo-color-tal-revivo.png" alt="icon" width="50" height="50" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hackthebox/hackthebox-original.svg" alt="htb" width="45" height="45" />
       <br>HTB
     </td>
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="icon" width="50" height="50" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45" />
       <br>Node
     </td>
     <td align="center" width="90">
-      <img src="https://www.svgrepo.com/show/354107/nestjs.svg" alt="icon" width="50" height="50" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="45" height="45" />
       <br>NestJS
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="icon" width="50" height="50" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
       <br>Mongo
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="icon" width="50" height="50" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45" />
       <br>SQL
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="icon" width="50" height="50" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45" />
       <br>PHP
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.worldvectorlogo.com/logos/burp-suite.svg" alt="icon" width="50" height="50" />
+      <img src="https://cdn.simpleicons.org/burpsuite/E87E04" alt="burp" width="45" height="45" />
       <br>Burp
     </td>
   </tr>
 </table>
-
 ---
 <samp>📡 ./Active_Missions</samp>
 
