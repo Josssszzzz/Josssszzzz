@@ -69,8 +69,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Josssszzzz&theme=tokyonight&no-frame=true&margin-w=15" alt="trophy" />
+  <a href="https://github.com/Josssszzzz">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Josssszzzz&layout=compact&langs_count=8&locale=es&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
   </a>
 </p>
 
