@@ -54,8 +54,8 @@ root@127.0.0.1:~$ cat /var/log/about_me.txt
 ```
 </td> </tr> </table>
 
-<samp>🛠️ ./Arsenal_&_Exploits</samp>
-
+<samp>🛠️ ./Arsenal_&_Exploits </samp>
+<div id="-arsenal"></div>
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -111,7 +111,7 @@ root@127.0.0.1:~$ cat /var/log/about_me.txt
   </tr>
 </table>
 
-<samp>📡 ./Active_Missions</samp>
+<samp>📡 ./Active_Missions </samp>
 
 ```yaml
 Current_Focus:
@@ -120,8 +120,8 @@ Current_Focus:
   - 🔐 Network_Hardening: [ISP Infrastructure Defense]
 ```
 ---
-<samp>📊 ./Network_Stats</samp>
-
+<samp>📊 ./Network_Stats </samp>
+<div id="-net-stats"></div>
 <p align="center">
   <a href="https://github.com/Josssszzzz">
     <img src="https://streak-stats.demolab.com?user=Josssszzzz&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" />
@@ -143,7 +143,7 @@ Current_Focus:
 
 ---
 <samp>📟 ./Encrypted_Channels</samp>
-
+<div id="-encrypted-channels"></div>
 <p align="center">
   <a href="https://linkedin.com/in/josé-eduardo-cruz-lópez-1b1403352" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00FF00?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=101010" alt="LinkedIn"/>
