@@ -112,6 +112,7 @@ Current_Focus:
 ```
 ---
 <samp>📊 ./Network_Stats</samp>
+
 <a href="https://github.com/Josssszzzz">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Josssszzzz&show_icons=true&locale=es&theme=midnight-purple&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=79c0ff&border_color=30363d" alt="Estadísticas de GitHub" />
   </a>
@@ -119,6 +120,8 @@ Current_Focus:
   <a href="https://github.com/Josssszzzz">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Josssszzzz&layout=compact&locale=es&theme=midnight-purple&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&border_color=30363d" alt="Lenguajes más usados" />
   </a>
+
+  <br><br>
   
 <p align="center">
   <a href="https://app.hackthebox.com/users/2641670">
