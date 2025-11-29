@@ -53,7 +53,7 @@ root@127.0.0.1:~$ cat /var/log/about_me.txt
   * Philosophy: "Para romper la lógica, primero tienes que entenderla."
 ```
 </td> </tr> </table>
----
+
 <samp>🛠️ ./Arsenal_&_Exploits</samp>
 
 <table align="center">
