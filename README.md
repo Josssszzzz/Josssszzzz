@@ -64,10 +64,13 @@
 
 <p align="center">
   <a href="https://github.com/Josssszzzz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Josssszzzz&show_icons=true&locale=es&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+    <img src="https://streak-stats.demolab.com?user=Josssszzzz&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" />
   </a>
-  <a href="https://github.com/Josssszzzz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Josssszzzz&layout=compact&langs_count=8&locale=es&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Josssszzzz&theme=tokyonight&no-frame=true&margin-w=15" alt="trophy" />
   </a>
 </p>
 
