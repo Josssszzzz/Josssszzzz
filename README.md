@@ -70,7 +70,7 @@ root@127.0.0.1:~$ cat /var/log/about_me.txt
       <br>Linux
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hackthebox/hackthebox-original.svg" alt="htb" width="45" height="45" />
+      <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" alt="htb" width="45" height="45" />
       <br>HTB
     </td>
   </tr>
@@ -102,6 +102,7 @@ root@127.0.0.1:~$ cat /var/log/about_me.txt
   </tr>
 </table>
 ---
+
 <samp>📡 ./Active_Missions</samp>
 
 ```yaml
@@ -117,6 +118,12 @@ Current_Focus:
 
 
 <a href="https://github.com/Josssszzzz"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3DJosssszzzz%26layout%3Dcompact%26locale%3Des%26theme%3Dradical%26bg_color%3D0d1117%26title_color%3D00FF00%26text_color%3Dc9d1d9%26border_color%3D00FF00%26hide_border%3Dfalse" alt="Top Langs" /> </a> </div>
+
+<p align="center">
+  <a href="https://app.hackthebox.com/users/2641670">
+    <img src="https://www.hackthebox.eu/badge/image/2641670" alt="Hack The Box Badge" />
+  </a>
+</p>
 
 ---
 <samp>📟 ./Encrypted_Channels</samp>
