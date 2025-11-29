@@ -21,16 +21,6 @@
 
 <samp>=============================================================</samp>
 
-</div>
-
-<br>
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5eGZ5eGZ5eGZ5eGZ5eGZ5eGZ5eGZ5eGZ5eGZ5/Lkb05J6tXy3q/giphy.gif" width="100%" height="5" />
-
-</div>
-
-<br>
-
 ---
 
 <samp>🛑 ./User_Profile</samp>
