@@ -25,6 +25,14 @@
 
 <samp>🛑 ./User_Profile</samp>
 
+<div id="-user-profile"></div>
+<samp>🛑 ./User_Profile</samp>
+<br>
+
+<table align="center" width="85%" border="0">
+<tr>
+<td>
+
 ```bash
 root@127.0.0.1:~$ cat /var/log/about_me.txt
 
@@ -36,14 +44,15 @@ root@127.0.0.1:~$ cat /var/log/about_me.txt
 
 > CURRENT_TASKS:
   [+] Asegurando infraestructura crítica (ISP Security).
-  [+] Investigando plataformas Big Tech.
+  [+] Investigando plataformas Big Tech (Meta Whitehat).
 
 > METADATA:
   * Role: Security Analyst & Backend Dev
-  * Target: Meta Whitehat (AI Security & Infrastructure)
+  * Target: AI Security & Infrastructure
   * Certification_Path: CWES (Web Exploitation Specialist)
   * Philosophy: "Para romper la lógica, primero tienes que entenderla."
 ```
+</td> </tr> </table>
 ---
 ### <samp>🛠️ ./Arsenal_&_Exploits</samp>
 
