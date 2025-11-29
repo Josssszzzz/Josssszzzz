@@ -113,13 +113,17 @@ Current_Focus:
 ---
 <samp>📊 ./Network_Stats</samp>
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Josssszzzz">
+    <img src="https://streak-stats.demolab.com?user=Josssszzzz&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" />
+  </a>
+</p>
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Josssszzzz&show_icons=true&locale=es&theme=midnight-purple&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=79c0ff&border_color=30363d)](https://github.com/Josssszzzz)
-
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs?username=Josssszzzz&layout=compact&locale=es&theme=midnight-purple&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&border_color=30363d)](https://github.com/Josssszzzz)
-
-<br>
+<p align="center">
+  <a href="https://github.com/Josssszzzz">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Josssszzzz&layout=compact&langs_count=8&locale=es&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+  </a>
+</p>
   
 <p align="center">
   <a href="https://app.hackthebox.com/users/2641670">
