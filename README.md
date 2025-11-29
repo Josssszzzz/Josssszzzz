@@ -54,7 +54,7 @@ root@127.0.0.1:~$ cat /var/log/about_me.txt
 ```
 </td> </tr> </table>
 ---
-### <samp>🛠️ ./Arsenal_&_Exploits</samp>
+<samp>🛠️ ./Arsenal_&_Exploits</samp>
 
 <table align="center">
   <tr>
