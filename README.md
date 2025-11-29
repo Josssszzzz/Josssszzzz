@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5eGZ5eGZ5eGZ5eGZ5eGZ5eGZ5eGZ5eGZ5eGZ5/Lkb05J6tXy3q/giphy.gif" width="100%" height="5" />
+<samp>=============================================================</samp>
 
 <h1 align="center">
     <samp>&gt; ESTABLISHING CONNECTION...</samp>
 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Jose+Eduardo+Cruz+L%C3%B3pez;Security+Researcher+%7C+Backend+Dev;mx_cyber_sec+%7C+17+y%2Fo;Target%3A+Secure+The+Infrastructure" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Jose+Eduardo+Cruz+L%C3%B3pez;Security+Researcher+%7C+Backend+Dev;mx_cyber_sec+%7C+17+y%2Fo;Target%3A+Secure+The+Infrastructure" alt="Typing SVG" />
+</a>
 
 <p align="center">
   <samp>
@@ -16,6 +18,12 @@
     [ <a href="#-encrypted-channels">Contact</a> ]
   </samp>
 </p>
+
+<samp>=============================================================</samp>
+
+</div>
+
+<br>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5eGZ5eGZ5eGZ5eGZ5eGZ5eGZ5eGZ5eGZ5eGZ5/Lkb05J6tXy3q/giphy.gif" width="100%" height="5" />
 
