@@ -26,7 +26,7 @@
 <samp>🛑 ./User_Profile</samp>
 
 <div id="-user-profile"></div>
-<samp>🛑 ./User_Profile</samp>
+
 <br>
 
 <table align="center" width="85%" border="0">
